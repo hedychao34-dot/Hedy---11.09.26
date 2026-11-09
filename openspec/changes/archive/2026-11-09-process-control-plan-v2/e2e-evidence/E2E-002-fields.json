@@ -1,0 +1,128 @@
+[
+  {
+    "key": "operation",
+    "label": "Op Seq No.",
+    "chinese": "10",
+    "english": "10",
+    "observed": "10"
+  },
+  {
+    "key": "processName",
+    "label": "Process Name/Op. Description",
+    "chinese": "銑削",
+    "english": "Milling",
+    "observed": "Milling"
+  },
+  {
+    "key": "machine",
+    "label": "Machine, Device, Jig, Tools for Mfg.",
+    "chinese": "CNC 銑床 No.10；定位治具 JIG-010",
+    "english": "CNC milling machine No.10; locating fixture JIG-010",
+    "observed": "CNC milling machine No.10; locating fixture JIG-010"
+  },
+  {
+    "key": "product",
+    "label": "Product",
+    "chinese": "槽寬",
+    "english": "Slot width",
+    "observed": "Slot width"
+  },
+  {
+    "key": "process",
+    "label": "Process",
+    "chinese": "主軸轉速 3000 rpm；進給速度 200 mm/min",
+    "english": "Spindle speed 3000 rpm; feed rate 200 mm/min",
+    "observed": "Spindle speed 3000 rpm; feed rate 200 mm/min"
+  },
+  {
+    "key": "ccp",
+    "label": "CCP (ΔE/ΔP)",
+    "chinese": "ΔP",
+    "english": "ΔP",
+    "observed": "ΔP"
+  },
+  {
+    "key": "specification",
+    "label": "Product/Process Specification",
+    "chinese": "槽寬 20.00 ± 0.02 mm",
+    "english": "Slot width 20.00 ± 0.02 mm",
+    "observed": "Slot width 20.00 ± 0.02 mm"
+  },
+  {
+    "key": "evaluation",
+    "label": "Evaluation Method",
+    "chinese": "使用數位卡尺量測槽寬",
+    "english": "Measure the slot width using a digital caliper.",
+    "observed": "Measure the slot width using a digital caliper."
+  },
+  {
+    "key": "sampleSize",
+    "label": "Size",
+    "chinese": "3 pcs",
+    "english": "3 pcs",
+    "observed": "3 pcs"
+  },
+  {
+    "key": "frequency",
+    "label": "Frequency",
+    "chinese": "每 60 min",
+    "english": "Every 60 min",
+    "observed": "Every 60 min"
+  },
+  {
+    "key": "responsible",
+    "label": "Responsible",
+    "chinese": "製程檢驗員",
+    "english": "Process inspector",
+    "observed": "Process inspector"
+  },
+  {
+    "key": "control",
+    "label": "Control Method",
+    "chinese": "將量測值記錄於巡檢表，逐件比對規格與公差",
+    "english": "Record the measurements on the in-process inspection sheet and compare each sampled part with the specification and tolerance.",
+    "observed": "Record the measurements on the in-process inspection sheet and compare each sampled part with the specification and tolerance."
+  },
+  {
+    "key": "reaction",
+    "label": "Reaction Plan",
+    "chinese": "發現超差時停止加工，隔離自上次合格檢查後的產品並通知線長",
+    "english": "If an out-of-tolerance condition is detected, stop machining, segregate all parts produced since the last accepted inspection, and notify the line leader.",
+    "observed": "If an out-of-tolerance condition is detected, stop machining, segregate all parts produced since the last accepted inspection, and notify the line leader."
+  },
+  {
+    "key": "verification",
+    "label": "CCP Verification",
+    "chinese": "品質工程師每班核對 CCP 檢查紀錄；此處僅示範驗證方式，未執行實際驗證",
+    "english": "The quality engineer reviews the CCP inspection records each shift. Demonstration method only; verification has not been performed.",
+    "observed": "The quality engineer reviews the CCP inspection records each shift. Demonstration method only; verification has not been performed."
+  },
+  {
+    "key": "rationale",
+    "label": "Sampling Plan Rationale",
+    "chinese": "以固定週期抽樣示範製程監控；未經正式風險評估",
+    "english": "Periodic sampling demonstrates process monitoring; no formal risk assessment has been performed.",
+    "observed": "Periodic sampling demonstrates process monitoring; no formal risk assessment has been performed."
+  },
+  {
+    "key": "grr",
+    "label": "Evaluation Method GR&R (results)",
+    "chinese": "未執行：無實際量測系統研究資料",
+    "english": "Not performed: no actual measurement system study data.",
+    "observed": "Not performed: no actual measurement system study data."
+  },
+  {
+    "key": "capability",
+    "label": "Process Capability (results)",
+    "chinese": "未執行：無實際製程量測資料",
+    "english": "Not performed: no actual process measurement data.",
+    "observed": "Not performed: no actual process measurement data."
+  },
+  {
+    "key": "doe",
+    "label": "DOE (Y/N)",
+    "chinese": "N；未執行實驗設計",
+    "english": "N; DOE has not been performed.",
+    "observed": "N; DOE has not been performed."
+  }
+]
